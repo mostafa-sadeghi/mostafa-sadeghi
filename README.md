@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 <html>
-  <body style="background:black">
+  <body style="background-color:black">
     <ul>
       <li>🔭 I’m currently working on FullStack Development, Python, Django, javascript, AI , White Hat Hacking</li>
       <li>🌱 I’m currently teachinf FullStack Development, Python, Django, javascript, AI , White Hat Hacking
