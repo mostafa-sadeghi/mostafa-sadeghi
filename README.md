@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 <html>
   <body style="background:black">
-    
+    <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
   </body>
 </html>
 
