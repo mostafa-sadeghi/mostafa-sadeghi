@@ -17,11 +17,7 @@ Here are some ideas to get you started:
       <li>💬 Ask me about FullStack and security and AI</li>
       <li>📫 How to reach me: +9809390096929</li>
     </ul>
-- 🔭 I’m currently working on FullStack Development, Python, Django, javascript, AI , White Hat Hacking
-- 🌱 I’m currently teachinf FullStack Development, Python, Django, javascript, AI , White Hat Hacking
 
-- 💬 Ask me about ...
-- 📫 How to reach me: +9809390096929
     
 
   </body>
