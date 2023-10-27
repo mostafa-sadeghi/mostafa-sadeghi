@@ -7,15 +7,15 @@ Here are some ideas to get you started:
 
 -->
 
+
+<html>
+  <body style="background:black">
 - 🔭 I’m currently working on FullStack Development, Python, Django, javascript, AI , White Hat Hacking
 - 🌱 I’m currently teachinf FullStack Development, Python, Django, javascript, AI , White Hat Hacking
 
 - 💬 Ask me about ...
 - 📫 How to reach me: +9809390096929
-
-<html>
-  <body style="background:black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+    
 
   </body>
 </html>
